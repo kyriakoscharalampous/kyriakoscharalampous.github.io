@@ -20,10 +20,27 @@ latest_posts:
   enabled: false
 ---
 
-I am an educational psychologist, researcher, and elementary school teacher with nineteen years of classroom experience in Greece and Cyprus. My work sits at the intersection of school psychology, developmental science, and educational practice — examining the forces that shape children's wellbeing and learning at school.
 
-My research focuses on school bullying and victimisation, parenting styles and adolescent development, internalising and externalising psychopathology, and the emerging role of artificial intelligence in education. I am a faculty member at Neapolis University Pafos and collaborate actively with the University of Cyprus.
+I am a tenured elementary school teacher at the Cyprus Ministry of Education,
+with nineteen years of classroom experience in Greece and Cyprus. Alongside my
+teaching career, I work as a Senior Researcher in various projects and serve
+as Special Teaching Staff at Neapolis University Pafos.
 
-I have published 27 peer-reviewed articles in international journals and presented my work at conferences across Europe. My research has been supported by competitive grants, and I serve as a reviewer for several journals in educational and developmental psychology.
+My research integrates educational, developmental, cognitive and social
+psychology, alongside psychopathology and aggression. I focus on the interplay
+between personal dimensions (cognitive, emotional, and biological),
+environmental factors (family, peer, teacher, school), and behavioral outcomes
+(bullying, psychopathological behavior, academic achievement) in youth
+development. My work is theoretically grounded and employs a versatile
+methodological toolkit — from longitudinal designs and structural equation
+modelling to mixed-methods approaches.
 
-What drives me is a simple conviction: every question I bring to the laboratory began in a classroom, and every finding I publish should eventually find its way back to one.
+I have published 28 peer-reviewed articles in international journals, presented
+at conferences across Europe and North America, and led research projects
+funded by the University of Cyprus and the United Nations Development
+Programme. I serve as a reviewer for several journals in educational and
+developmental psychology.
+
+What drives me is a simple conviction: every question I bring to the laboratory
+began in a classroom, and every finding I publish should eventually find its
+way back to one.
