@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 
+The courses listed here reflect my recent university teaching. A full record 
+of my teaching history across all institutions since 2011 is available in my 
+[CV](/cv/).
+
 ## Neapolis University Pafos (2024–2026)
 **DPSYC 503** — Learning: Theoretical Approaches and Educational Applications  
 **DPSYC 505** — Personality: Theoretical Approaches and Evolutionary Course  
