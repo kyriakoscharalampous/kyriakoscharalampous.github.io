@@ -443,11 +443,6 @@ ninja.data = [{
           description: "A longitudinal study examining bullying parameters in childhood and adolescence.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_longitudinal_bullying/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-cv',
         title: 'CV',
