@@ -412,16 +412,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-honored-with-the-top-viewed-article-award-from-psychology-in-the-schools-for-being-among-the-most-read-newly-published-articles-in-the-journal-between-january-december-2023",
+          title: 'Honored with the Top-Viewed Article Award from Psychology in the Schools for being...',
           description: "",
           section: "News",},{id: "projects-ai-supported-differentiated-teaching-protocol",
           title: 'AI-Supported Differentiated Teaching Protocol',
