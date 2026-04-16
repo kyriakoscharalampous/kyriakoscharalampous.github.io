@@ -433,11 +433,11 @@ ninja.data = [{
           description: "A United Nations coordinated study examining bullying across communities in Cyprus.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_un_bullying/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-social-ecological-diathesis-stress-model-of-bullying",
+          title: 'Social-Ecological Diathesis-Stress Model of Bullying',
+          description: "Examining personal vulnerability factors mediating the effect of bullying on adolescent psychopathology.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/3_diathesis_stress/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
