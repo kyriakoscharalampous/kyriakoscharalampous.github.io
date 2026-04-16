@@ -443,11 +443,6 @@ ninja.data = [{
           description: "A longitudinal study examining bullying parameters in childhood and adolescence.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_longitudinal_bullying/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
@@ -468,11 +463,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-cv',
         title: 'CV',
