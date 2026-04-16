@@ -438,6 +438,26 @@ ninja.data = [{
           description: "A longitudinal study examining bullying parameters in childhood and adolescence.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_longitudinal_bullying/";
+            },},{id: "teaching-neapolis-university-pafos",
+          title: 'Neapolis University Pafos',
+          description: "Graduate courses in psychology and education.",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/1_neapolis_2019/";
+            },},{id: "teaching-theological-school-of-the-church-of-cyprus",
+          title: 'Theological School of the Church of Cyprus',
+          description: "Graduate courses in research methodology and statistics.",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/2_theological_2023/";
+            },},{id: "teaching-university-of-cyprus",
+          title: 'University of Cyprus',
+          description: "Graduate course in educational statistics.",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/3_ucy_2024/";
+            },},{id: "teaching-neapolis-university-pafos",
+          title: 'Neapolis University Pafos',
+          description: "Graduate courses in learning, personality and independent research.",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/4_neapolis_2024/";
             },},{
         id: 'social-cv',
         title: 'CV',
