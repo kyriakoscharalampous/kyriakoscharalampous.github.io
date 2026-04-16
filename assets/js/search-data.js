@@ -438,11 +438,11 @@ ninja.data = [{
           description: "Examining personal vulnerability factors mediating the effect of bullying on adolescent psychopathology.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_diathesis_stress/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-parameters-of-bullying-and-cyber-bullying-in-childhood-and-adolescence",
+          title: 'Parameters of Bullying and Cyber-bullying in Childhood and Adolescence',
+          description: "A longitudinal study examining bullying parameters in childhood and adolescence.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/4_longitudinal_bullying/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
