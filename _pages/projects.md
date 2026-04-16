@@ -8,7 +8,9 @@ nav_order: 3
 display_categories: [Active, Completed]
 horizontal: false
 ---
-
+The projects featured here represent the main research projects I have led or 
+contributed to as a senior researcher. For a complete record including 
+conference activity and grant history, see my [CV](/cv/).
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
