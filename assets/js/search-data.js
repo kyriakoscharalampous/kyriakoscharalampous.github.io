@@ -428,11 +428,11 @@ ninja.data = [{
           description: "Developing and evaluating an AI-supported differentiated teaching protocol for primary school algebra.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_ai_dtp/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-prevalence-correlates-and-prevention-of-bullying-and-cyberbullying",
+          title: 'Prevalence, Correlates, and Prevention of Bullying and Cyberbullying',
+          description: "A United Nations coordinated study examining bullying across communities in Cyprus.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/2_un_bullying/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
