@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Educational Psychologist · Researcher · Elementary School Teacher
+subtitle: Researcher in Child and Adolescent Development · Educator
 profile:
   align: right
   image: prof_pic.jpg
